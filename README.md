@@ -8,7 +8,6 @@
 - [Full-Stack Projects](#full-stack-projects)
 - [Web Applications](#web-applications)
 - [Contact](#contact)
-- [Copyright and license](#copyright-and-license)
 
 ### Description
 
