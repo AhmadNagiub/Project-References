@@ -41,7 +41,8 @@ Full-Stack projects ordered from oldest to newest [updated]
 | --- | --- | --- |
 | 1 | [Blog](https://github.com/AhmadNagiub/Blog) | Blog Website |
 | 2 | [E-shop](https://github.com/AhmadNagiub/shop) | E-Shop Website |
-
+| 3 | [Note App](https://notes-app-nag.netlify.app/#/signin) | Note Website to save your notes  |
+| 4 | [Movies ](https://movie-app-nag.netlify.app/) | movies Website to get newest and trending movies |
 ### Web Applications
 
 Simple web applications ordered from oldest to newest [updated]
