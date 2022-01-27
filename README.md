@@ -31,6 +31,7 @@ Frontend projects ordered from oldest to newest [updated]
 | 6 | [Special ](https://github.com/AhmadNagiub/Special) | Special Website |
 | 7 | [health-tracker](https://github.com/AhmadNagiub/health-tracker) | Health Tracker Website |
 | 8 | [Cafeshop](https://github.com/AhmadNagiub/cafeshop) | cafe shop Website |
+| 9 | [Blog](https://github.com/AhmadNagiub/Blog) | frontend Blog Website |
 
 
 ### Full-Stack Projects
@@ -39,10 +40,12 @@ Full-Stack projects ordered from oldest to newest [updated]
 
 | # | Project | Description |
 | --- | --- | --- |
-| 1 | [Blog](https://github.com/AhmadNagiub/Blog) | Blog Website |
+| 1 | [Blog](https://github.com/AhmadNagiub/Full-Stack-Blog) | fullstack Blog Website |
 | 2 | [E-shop](https://github.com/AhmadNagiub/shop) | E-Shop Website |
 | 3 | [Note App](https://notes-app-nag.netlify.app/#/signin) | Note Website to save your notes  |
 | 4 | [Movies ](https://movie-app-nag.netlify.app/) | movies Website to get newest and trending movies |
+| 5 | [market](https://github.com/AhmadNagiub/market) | simple market |
+
 ### Web Applications
 
 Simple web applications ordered from oldest to newest [updated]
@@ -50,20 +53,13 @@ Simple web applications ordered from oldest to newest [updated]
 | # | Application | Description |
 | --- | --- | --- |
 | 1 | [Crud Products](https://github.com/AhmadNagiub/Crud-Products) | Crud |
-| 2 | [market](https://github.com/AhmadNagiub/market) | market |
+| 2 | [Memory game](https://github.com/AhmadNagiub/Memory-Game) | Memory game |
+| 3 | [Save Items](https://github.com/AhmadNagiub/save-items) | localstorage |
+| 4 | [Slider](https://github.com/AhmadNagiub/Slider) | simple Slider |
+| 5 | [Quiz app](https://github.com/AhmadNagiub/Quiz-App-oop-) | quiz application with js OOP and fetch api |
+| 6 | [Quiz app](https://github.com/AhmadNagiub/quiz-Appapp/) | quiz application with js and fetch json file |
  
- 
-### javascript Applications
 
-Simple js applications ordered from oldest to newest [updated]
-
-| # | Application | Description |
-| --- | --- | --- |
-| 1 | [Memory game](https://github.com/AhmadNagiub/Memory-Game) | Memory game |
-| 2 | [Save Items](https://github.com/AhmadNagiub/save-items) | localstorage |
-| 3 | [Slider](https://github.com/AhmadNagiub/Slider) | simple Slider |
-| 4 | [Quiz app](https://github.com/AhmadNagiub/Quiz-App-oop-) | quiz application with js OOP and fetch api |
-| 5 | [Quiz app](https://github.com/AhmadNagiub/quiz-Appapp/) | quiz application with js and fetch json file |
 
 ### Contact
 
