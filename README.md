@@ -30,6 +30,8 @@ Frontend projects ordered from oldest to newest [updated]
 | 5 | [smartEdu ](https://github.com/AhmadNagiub/smartEdu) | Kids School Website |
 | 6 | [Special ](https://github.com/AhmadNagiub/Special) | Special Website |
 | 7 | [health-tracker](https://github.com/AhmadNagiub/health-tracker) | Health Tracker Website |
+| 8 | [Cafeshop](https://github.com/AhmadNagiub/cafeshop) | cafe shop Website |
+
 
 ### Full-Stack Projects
 
@@ -49,6 +51,18 @@ Simple web applications ordered from oldest to newest [updated]
 | 1 | [Crud Products](https://github.com/AhmadNagiub/Crud-Products) | Crud |
 | 2 | [market](https://github.com/AhmadNagiub/market) | market |
  
+ 
+### javascript Applications
+
+Simple js applications ordered from oldest to newest [updated]
+
+| # | Application | Description |
+| --- | --- | --- |
+| 1 | [Memory game](https://github.com/AhmadNagiub/Memory-Game) | Memory game |
+| 2 | [Save Items](https://github.com/AhmadNagiub/save-items) | localstorage |
+| 3 | [Slider](https://github.com/AhmadNagiub/Slider) | simple Slider |
+| 4 | [Quiz app](https://github.com/AhmadNagiub/Quiz-App-oop-) | quiz application with js OOP and fetch api |
+| 5 | [Quiz app](https://github.com/AhmadNagiub/quiz-Appapp/) | quiz application with js and fetch json file |
 
 ### Contact
 
