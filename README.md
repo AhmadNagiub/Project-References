@@ -48,7 +48,7 @@ Full-Stack projects ordered from oldest to newest [updated]
 | 6 | [NAG Udacity](https://marketn.netlify.app/products) |a market for displaying and order products |
 | 7 | [NAG Cryptotrack](https://cryptotracks.netlify.app/coin-list) | Check All The Crypto Currency Lastest Updates |
 | 8 | [nutrition app](https://nutritionapps.netlify.app/) | Enter an ingredient list list for what you are cooking |
-| 9 | [Socail app](https://ann-social.netlify.app/userPosts) | Social media app for displaying posts and add comment on them |
+| 9 | [Social app](https://ann-social.netlify.app/userPosts) | Social media app for displaying posts and add comment on them |
 
 ### Web Applications
 
