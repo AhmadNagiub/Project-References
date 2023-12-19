@@ -45,6 +45,10 @@ Full-Stack projects ordered from oldest to newest [updated]
 | 3 | [Note App](https://notes-app-nag.netlify.app/#/signin) | Note Website to save your notes  |
 | 4 | [Movies ](https://movie-app-nag.netlify.app/) | movies Website to get newest and trending movies |
 | 5 | [market](https://github.com/AhmadNagiub/market) | simple market |
+| 6 | [NAG Udacity](https://marketn.netlify.app/products) |a market for displaying and order products |
+| 7 | [NAG Cryptotrack](https://cryptotracks.netlify.app/coin-list) | Check All The Crypto Currency Lastest Updates |
+| 8 | [nutrition app](https://nutritionapps.netlify.app/) | Enter an ingredient list list for what you are cooking |
+| 9 | [Socail app](https://ann-social.netlify.app/userPosts) | Social media app for displaying posts and add comment on them |
 
 ### Web Applications
 
